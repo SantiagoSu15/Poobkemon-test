@@ -264,6 +264,11 @@ public class PokemonsInGame implements Serializable {
                 364, 364, 251, 394, 240, 273,
                 "/Recursos/Imagenes/Pokemones/PokemonsFrente/Aerodactyl.png", "/Recursos/Imagenes/Pokemones/PokemonsEspalda/Aerodactyl.png", "/Recursos/Imagenes/Pokemones/Iconos/Aerodactyl.png"));
 
+        pokemons.add(new Pokemon("Aerodactyl", "Volador", "Los orígenes de Aerodactyl datan de la era de los dinosaurios. Se regeneró a partir de material genético contenido en ámbar. " +
+                "Se supone que fue el amo de los cielos en épocas pasadas.",
+                364, 364, 251, 394, 240, 273,
+                "/Recursos/Imagenes/Pokemones/PokemonsFrente/Aerodactyl.png", "/Recursos/Imagenes/Pokemones/PokemonsEspalda/Aerodactyl.png", "/Recursos/Imagenes/Pokemones/Iconos/Aerodactyl.png"));
+
     }
 
 
