@@ -22,7 +22,7 @@ public class PokemonTest {
         Map<String, Double> efectividades = test.getEfectividades();
 
         assertNotNull(efectividades);
-
+        System.out.println(efectividades);
         Map<String, Double> efectividades2 = new HashMap<>();
         efectividades2.put("Fuego", 2.0);
         efectividades2.put("Roca", 2.0);
